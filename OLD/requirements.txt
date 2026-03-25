@@ -1,0 +1,4 @@
+pymodbus==3.11.4
+paho-mqtt==2.1.0
+flask==3.1.2
+python-snap7
